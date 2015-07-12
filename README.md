@@ -1,0 +1,2 @@
+# BitcoinBot
+automatic-dealer
