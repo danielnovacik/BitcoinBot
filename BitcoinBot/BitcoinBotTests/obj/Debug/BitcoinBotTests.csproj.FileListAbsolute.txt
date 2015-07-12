@@ -1,0 +1,7 @@
+c:\users\ra6e\documents\visual studio 2015\Projects\BitcoinBot\BitcoinBotTests\bin\Debug\BitcoinBotTests.dll
+c:\users\ra6e\documents\visual studio 2015\Projects\BitcoinBot\BitcoinBotTests\bin\Debug\BitcoinBotTests.pdb
+c:\users\ra6e\documents\visual studio 2015\Projects\BitcoinBot\BitcoinBotTests\bin\Debug\BitcoinBot.exe
+c:\users\ra6e\documents\visual studio 2015\Projects\BitcoinBot\BitcoinBotTests\bin\Debug\BitcoinBot.pdb
+c:\users\ra6e\documents\visual studio 2015\Projects\BitcoinBot\BitcoinBotTests\obj\Debug\BitcoinBotTests.csprojResolveAssemblyReference.cache
+c:\users\ra6e\documents\visual studio 2015\Projects\BitcoinBot\BitcoinBotTests\obj\Debug\BitcoinBotTests.dll
+c:\users\ra6e\documents\visual studio 2015\Projects\BitcoinBot\BitcoinBotTests\obj\Debug\BitcoinBotTests.pdb

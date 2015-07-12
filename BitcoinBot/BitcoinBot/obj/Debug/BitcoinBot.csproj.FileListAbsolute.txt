@@ -1,0 +1,7 @@
+c:\users\ra6e\documents\visual studio 2015\Projects\BitcoinBot\BitcoinBot\bin\Debug\BitcoinBot.exe.config
+c:\users\ra6e\documents\visual studio 2015\Projects\BitcoinBot\BitcoinBot\bin\Debug\BitcoinBot.exe
+c:\users\ra6e\documents\visual studio 2015\Projects\BitcoinBot\BitcoinBot\bin\Debug\BitcoinBot.pdb
+c:\users\ra6e\documents\visual studio 2015\Projects\BitcoinBot\BitcoinBot\bin\Debug\Newtonsoft.Json.dll
+c:\users\ra6e\documents\visual studio 2015\Projects\BitcoinBot\BitcoinBot\bin\Debug\Newtonsoft.Json.xml
+c:\users\ra6e\documents\visual studio 2015\Projects\BitcoinBot\BitcoinBot\obj\Debug\BitcoinBot.exe
+c:\users\ra6e\documents\visual studio 2015\Projects\BitcoinBot\BitcoinBot\obj\Debug\BitcoinBot.pdb
